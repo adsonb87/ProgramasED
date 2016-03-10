@@ -3,4 +3,6 @@
 <fullyQualifiedTypeName name="IPonto"/>
 <fullyQualifiedTypeName name="javax.swing.text.MaskFormatter"/>
 <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="Exceptions.ObjetoJaExistenteException"/>
+<fullyQualifiedTypeName name="Exceptions.ObjetoNaoExistenteException"/>
 </qualifiedTypeNameHistroy>
